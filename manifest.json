@@ -609,6 +609,7 @@
     "/policies": {
       "dataFile": "Policies/.data.md",
       "children": [
+        "/policies/bot-privacy-policy",
         "/policies/contributing-policy",
         "/policies/privacy-policy",
         "/policies/terms-of-service"
@@ -963,6 +964,9 @@
     },
     "/pilots/paza/pafa/sops": {
       "file": "Pilots/PAZA/PAFA/SOPs.md"
+    },
+    "/policies/bot-privacy-policy": {
+      "file": "Policies/Bot-Privacy-Policy.md"
     },
     "/policies/contributing-policy": {
       "file": "Policies/Contributing-Policy.md"
