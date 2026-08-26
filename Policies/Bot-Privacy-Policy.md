@@ -124,7 +124,7 @@ PFATC may update this Privacy Policy from time to time to reflect changes to the
 
 The latest version of this Privacy Policy will be made available at:
 
-**[Privacy Policy URL]**
+**https://wiki.pfatc.net/policies/privacy-policy**
 
 ## 12. Contact
 
