@@ -14,5 +14,4 @@
 
 ### Flights to Arroyo Barril
 
-Due to the proximity of Arroyo Barril and its position, coordination with the relevant approach control unit is required prior to issuing a clearance and the agreed departure instructions should be passed to the aircraft. 
-
+Due to the proximity of Arroyo Barril and its position, coordination with the relevant approach control unit is required prior to issuing a clearance and the agreed departure instructions should be passed to the aircraft.

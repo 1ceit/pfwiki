@@ -7,7 +7,7 @@
 | **Punta Cana Approach** | 119.750 | MDPC_APP |
 | **Punta Cana Tower** | 118.800 | MDPC_TWR |
 | **Punta Cana Ground** | 121.900 | MDPC_GND |
-| _Punta Cana Ramp_ | 131.750 | MDPC_R_GND |
+| _Punta Cana Ramp_ | 131.750 | MDPC_RMP |
 | **Punta Cana Clearance Delivery** | 121.650 | MDPC_DEL |
 
 !!! info Non-Standard Positions
@@ -30,5 +30,3 @@
 ### ATIS Format
 
 > THIS IS MDPC INFO [ATIS_CODE]. AT [OBS_TIME]. [ARPT_COND] [FULL_WX_STRING]. [NOTAMS]. ADVISE ATC THAT YOU HAVE COPIED INFORMATION [ATIS_CODE]. MDPC
-
-
