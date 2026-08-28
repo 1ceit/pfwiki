@@ -36,10 +36,10 @@ _Italic_
 _Italic_
 
 !!! warning Title
-Content
+  Content
 
 !!! info Title
-Content
+  Content
 
 > Embed Body 2
 > **Embed Body 2**

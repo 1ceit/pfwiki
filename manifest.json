@@ -308,7 +308,8 @@
     },
     "/knowledgebase": {
       "children": [
-        "/knowledgebase/general"
+        "/knowledgebase/general",
+        "/knowledgebase/vfr"
       ]
     },
     "/knowledgebase/general": {
@@ -332,6 +333,12 @@
       "children": [
         "/knowledgebase/general/roles/leadership",
         "/knowledgebase/general/roles/operations"
+      ]
+    },
+    "/knowledgebase/vfr": {
+      "dataFile": "Knowledgebase/VFR/.data.md",
+      "children": [
+        "/knowledgebase/vfr/pattern-work"
       ]
     },
     "/pilots": {
@@ -605,6 +612,7 @@
     "/policies": {
       "dataFile": "Policies/.data.md",
       "children": [
+        "/policies/bot-privacy-policy",
         "/policies/contributing-policy",
         "/policies/privacy-policy",
         "/policies/terms-of-service"
@@ -840,6 +848,9 @@
     "/knowledgebase/general/roles/operations": {
       "file": "Knowledgebase/General/Roles/Operations.md"
     },
+    "/knowledgebase/vfr/pattern-work": {
+      "file": "Knowledgebase/VFR/Pattern-Work.md"
+    },
     "/pilots/eggx/enroute/briefing": {
       "file": "Pilots/EGGX/Enroute/Briefing.md"
     },
@@ -965,6 +976,9 @@
     },
     "/pilots/paza/pafa/sops": {
       "file": "Pilots/PAZA/PAFA/SOPs.md"
+    },
+    "/policies/bot-privacy-policy": {
+      "file": "Policies/Bot-Privacy-Policy.md"
     },
     "/policies/contributing-policy": {
       "file": "Policies/Contributing-Policy.md"
