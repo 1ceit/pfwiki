@@ -4,7 +4,7 @@ Gatwick Airport, also known as London Gatwick, is one of London’s six internat
 
 The airport supports a wide variety of aircraft types, ranging from regional turboprops and narrow-body aircraft such as the Airbus A320 family and Boeing 737 series, through to wide-body long-haul aircraft including the Boeing 777, Boeing 787, and Airbus A350.
 
-The airport is characterized by two parallel runways positioned to the South of the aerodrome's main aprons and two passenger terminals. The main runway, 08R/26L, handles the vast majority of aircraft movements, while the parallel runway, 08L/26R, is primarily used as a standby runway and for taxiing operations due to runway separation limitations.
+The airport is characterised by two parallel runways positioned to the South of the aerodrome's main aprons and two passenger terminals. The main runway, 08R/26L, handles the vast majority of aircraft movements, while the parallel runway, 08L/26R, is primarily used as a standby runway and for taxiing operations due to runway separation limitations.
 
 ---
 
@@ -22,7 +22,8 @@ The airport is characterized by two parallel runways positioned to the South of 
 
 ---
 
-Schengen flights are those with any destination in the islands of Spain, Cyprus or Finland on the Project Flight map.
+!!! info Schengen Flights
+    Schengen flights are those with any destination in Portugal or Cyprus (on the Project Flight map).
 
 International flights are those with any non-UK destination (i.e. any airport except Southampton and Gatwick).
 
@@ -43,7 +44,8 @@ Gatwick Planner (`EGKK_P_GND`) serves as a buffer between Delivery and Ground to
 
 # Pushback
 
-Pushback should be requested on the Gatwick Ground frequency (`EGKK_GND`). Include your stand number in this request.
+!!! info EGKK_P_GND
+    Pushback should be requested on the Gatwick Ground frequency (`EGKK_GND`). Include your stand number in this request. Gatwick Planner (`EGKK_P_GND`) may be online. You will be instructed to contact this frequency if online.
 
 > EZY8660, stand 210, request push and start.
 
@@ -59,8 +61,8 @@ Taxi should be requested as follows:
 
 Taxi instructions will include a holding point as the clearance limit, the runway (unless the limit does not occur at a runway), and taxiway routing.
 
-> **Note:**  
-> Taxiway K and J are staggered at their crossing with taxiway P. Ensure you do not deviate from your assigned taxi route at these points.
+!!! info Taxiways K and J
+    Taxiways K and J are staggered at their corssing with taxiway P. Ensure you do not deviate from your assigned taxi route at these points.
 
 ---
 
@@ -72,7 +74,7 @@ Holding points A2, A3 and M3 should be expected during normal runway 26L operati
 
 ## Runway 08R Operations
 
-Holding points J8 and J4 should be expected during normal runway 08R operations.
+Holding points J4, J7 and J8 should be expected during normal runway 08R operations.
 
 ---
 
@@ -80,8 +82,8 @@ Holding points J8 and J4 should be expected during normal runway 08R operations.
 
 Gatwick features two parallel runways, 26L/08R and 26R/08L, with TORAs of 3,316 m (10,879 ft) and 2,565 m (8,412 ft) respectively. Due to their close proximity, only single-runway operations are used.
 
-> **Note:**  
-> Runway 26L is the preferential runway used unless the tailwind component for this runway exceeds 5kts.
+!!! info Note
+    Runway 26L is the preferential runway used unless the tailwind component for this runway exceeds 5kts.
 
 ---
 
@@ -89,24 +91,18 @@ Gatwick features two parallel runways, 26L/08R and 26R/08L, with TORAs of 3,316 
 
 Currently, only runway 26L features Standard Instrument Departures (SIDs). Non-standard departure instructions will be issued for any other departure runway; radar vectoring to the filed initial fix should be expected.
 
-> **Important:**  
-> Advise ATC if you are unable to follow an assigned SID.
+!!! warning Important
+    Advise ATC if you are unable to follow an assigned SID.
 
 Follow the climb profiles of all published SIDs, unless otherwise instructed by ATC. Charted altitude restrictions may be ignored if a “climb now” instruction is issued by ATC.
 
-The initial climb altitude for all departures is 5000 ft, unless otherwise stated.
-
-## Initial Fixes
-
-Flights should file the following as their initial fixes:
-
-| Destination | Initial Fix |
-|---|---|
-| Haiti or the Dominican Republic | NOVMA |
-| Spain or Cyprus | BOGNA |
-| Finland | WIZAD |
+!!! note Example of a "Climb Now" instruction
+    "EFW63T, climb now FL100."
 
 If London Control (`EGTT_CTR`) is staffed, report passing altitude and SID (if applicable) on first contact.
+
+!!! note Example of initial contact with London
+    "London Control, EZY12UT, BOGNA1X departure, 2,300 ft climbing 6,000 ft."
 
 ---
 
@@ -114,20 +110,10 @@ If London Control (`EGTT_CTR`) is staffed, report passing altitude and SID (if a
 
 On first contact with Gatwick Director, aircraft should state their cleared level (or current flight level if not descending), aircraft type, ATIS information and routing.
 
-### Example Transmission
-
-> EZY8660, descending FL50 to WIZAD, type A320, information A.
+!!! note Example of initial contact with Gatwick
+    "Gatwick Director, EZY20F, descending FL50 to WIZAD, A320 information A."
 
 Only two RNAV STARs currently exist for Gatwick: `KUNAV1G` and `VASUX1G`.
-
-## STAR Assignment
-
-The last filed fix for arrivals should be as follows:
-
-| Arrival Region | Last Filed Fix |
-|---|---|
-| Finland and Cyprus | KUNAV |
-| Spain, Haiti or the Dominican Republic | VASUX |
 
 Radar vectoring for final approach is to be expected beyond the last fix of each STAR.
 
@@ -155,7 +141,5 @@ ILS approaches are to be used for runways 26L and 08R. Inform Gatwick Director (
 | EGKK_P_GND | 134.230 | Gatwick Planner |
 | EGKK_DEL | 121.955 | Gatwick Delivery |
 
-> **Note:**  
-> Other frequencies may be active during events. Review the ATIS for any further information.
-
-<sub>Written by .ctizzy.</sub>
+!!! info Note
+    Other frequencies may be active during events. Review the ATIS for any further information.
