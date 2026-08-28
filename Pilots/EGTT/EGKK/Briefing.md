@@ -96,12 +96,12 @@ Currently, only runway 26L features Standard Instrument Departures (SIDs). Non-s
 
 Follow the climb profiles of all published SIDs, unless otherwise instructed by ATC. Charted altitude restrictions may be ignored if a “climb now” instruction is issued by ATC.
 
-!!! note Example of a "Climb Now" instruction
+!!! info Example of a "Climb Now" instruction
     "EFW63T, climb now FL100."
 
 If London Control (`EGTT_CTR`) is staffed, report passing altitude and SID (if applicable) on first contact.
 
-!!! note Example of initial contact with London
+!!! info Example of initial contact with London
     "London Control, EZY12UT, BOGNA1X departure, 2,300 ft climbing 6,000 ft."
 
 ---
@@ -110,7 +110,7 @@ If London Control (`EGTT_CTR`) is staffed, report passing altitude and SID (if a
 
 On first contact with Gatwick Director, aircraft should state their cleared level (or current flight level if not descending), aircraft type, ATIS information and routing.
 
-!!! note Example of initial contact with Gatwick
+!!! info Example of initial contact with Gatwick
     "Gatwick Director, EZY20F, descending FL50 to WIZAD, A320 information A."
 
 Only two RNAV STARs currently exist for Gatwick: `KUNAV1G` and `VASUX1G`.
@@ -133,13 +133,13 @@ ILS approaches are to be used for runways 26L and 08R. Inform Gatwick Director (
 
 | Logon | Frequency | Position |
 |---|---|---|
-| EGTT_CTR | 127.430 | London Control |
-| EGKK_APP | 126.825 | Gatwick Director |
-| EGKK_TWR | 124.230 | Gatwick Tower |
-| EGKK_S_GND | 121.805 | Gatwick Ground (South) |
-| EGKK_N_GND | 121.540 | Gatwick Ground (North) |
-| EGKK_P_GND | 134.230 | Gatwick Planner |
-| EGKK_DEL | 121.955 | Gatwick Delivery |
+| `EGTT_CTR` | 127.430 | London Control |
+| `EGKK_APP` | 126.825 | Gatwick Director |
+| `EGKK_TWR` | 124.230 | Gatwick Tower |
+| `EGKK_S_GND` | 121.805 | Gatwick Ground (South) |
+| `EGKK_N_GND` | 121.540 | Gatwick Ground (North) |
+| `EGKK_P_GND` | 134.230 | Gatwick Planner |
+| `EGKK_DEL` | 121.955 | Gatwick Delivery |
 
 !!! info Note
     Other frequencies may be active during events. Review the ATIS for any further information.
