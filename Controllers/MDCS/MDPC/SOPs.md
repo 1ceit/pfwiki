@@ -13,11 +13,6 @@
 !!! info Non-Standard Positions
       Approval from the parent position is required before opening a non-standard position. Non-standard positions are italicised above. 
 
-(Clearance Delivery)[https://wiki.pfatc.net/controllers/mdcs/mdpc/clearance-delivery]
-(Ground Control)[https://wiki.pfatc.net/controllers/mdcs/mdpc/ground]
-(Tower Control)[https://wiki.pfatc.net/controllers/mdcs/mdpc/tower]
-(Approach Control)[https://wiki.pfatc.net/controllers/mdcs/mdpc/approach]
-
 ## ATIS 
 
 ### Preferred Runway Modes
