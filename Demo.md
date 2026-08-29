@@ -1,6 +1,6 @@
 ---
-title: Manually Overriden Title!
-description: This is a file description for the Demo page.
+title: Format Demo Page
+description: This page shows use cases for all formats and how they are rendered.
 ---
 
 # Heading 1
@@ -13,6 +13,7 @@ This is normal body text.
 
 This is normal body text with a ?[Tooltip](A tooltip appears when you hover over the word!).
 
+This is a line break:
 ---
 
 | Chart | Purpose   | Required |
