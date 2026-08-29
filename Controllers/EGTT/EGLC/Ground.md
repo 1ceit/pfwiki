@@ -10,7 +10,7 @@
 !!! info Non-Standard Departures
       If an aircraft is unable to accept a SID, coordination with the relevant approach control unit is required and the agreed departure instructions should be passed to the aircraft. 
 
-### Flights to Gatwick
+## Flights to Gatwick
 
 Due to the proximity of Gatwick and its position, coordination with L (London Control) is required prior to issuing a clearance.
 
