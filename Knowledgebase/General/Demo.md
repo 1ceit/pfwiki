@@ -1,3 +1,8 @@
+---
+title: Manually Overriden Title!
+description: This is a file description for the Demo page.
+---
+
 # Heading 1
 
 ## Heading 2
