@@ -4,6 +4,7 @@
     "children": [
       "/about",
       "/controllers",
+      "/demo",
       "/knowledgebase",
       "/pilots",
       "/policies",
@@ -314,7 +315,6 @@
     "/knowledgebase/general": {
       "dataFile": "Knowledgebase/General/.data.md",
       "children": [
-        "/knowledgebase/general/demo",
         "/knowledgebase/general/ratings",
         "/knowledgebase/general/roles"
       ]
@@ -827,8 +827,8 @@
     "/controllers/paza/pafa/sops": {
       "file": "Controllers/PAZA/PAFA/SOPs.md"
     },
-    "/knowledgebase/general/demo": {
-      "file": "Knowledgebase/General/Demo.md"
+    "/demo": {
+      "file": "Demo.md"
     },
     "/knowledgebase/general/ratings/[c1]-trainee-controller": {
       "file": "Knowledgebase/General/Ratings/[C1]-Trainee-Controller.md"
