@@ -124,14 +124,16 @@ PFATC may update this Privacy Policy from time to time to reflect changes to the
 
 The latest version of this Privacy Policy will be made available at:
 
-**[Privacy Policy URL]**
+**https://wiki.pfatc.net/policies/privacy-policy**
 
 ## 12. Contact
 
 If you have questions about this Privacy Policy or how PFATC processes information, or if you wish to exercise your data protection rights, please contact PFATC:
 
 **PFATC**
+
 **Contact:** via Discord Ticket
+
 **Privacy Policy:** https://wiki.pfatc.net/policies/bot-privacy-policy/
 
 If you are unhappy with how PFATC handles your personal information, you may also have the right to complain to the relevant data protection authority. For more, please search "my relevant data protection authority".
