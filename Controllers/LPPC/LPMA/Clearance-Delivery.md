@@ -6,4 +6,4 @@ Delivery phraseology is as follows: (Callsign), information (current information
 
 # Responsibility
 
-- The Tower Controller is, contrary to other divisions, **not** responsible for changing the aircraft's requested cruise level. Even if it does not follow the regulations, the aircraft's cruise altitude must be managed by Center/Approach Controllers when they are airborne. It is good practice to identify the possible mistake and inform the next controller.
+- The Tower Controller is, **not** responsible for changing the aircraft's requested cruise level. Even if it does not follow the regulations, the aircraft's cruise altitude must be managed by Center/Approach Controllers when they are airborne. It is good practice to identify the possible mistake and inform the next controller.
