@@ -150,4 +150,4 @@ Select the departure heading based on the table, only if the aircraft is not on 
 
 ---
 Last Modified
-_This page was last edited on 2 September 2026, at 11:07._
+_This page was last edited on 2 September 2026, at 11:09._
