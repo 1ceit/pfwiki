@@ -8,6 +8,9 @@ The Clearance Delivery controller's role is to **verify flight plans and issue c
 
 Fairbanks International Airport follows FAA phraseology, though PFATC does not require specific phraseology, so you may use other phraseologies when issuing clearances, such as CAA and ICAO.
 
+!!!info Note 
+In all examples the controller identifies themselves each time. In practice you only must do this once to establish two radio communication.
+
 
 FAA follows the CRAFT format when issuing clearances.
 

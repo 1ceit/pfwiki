@@ -12,6 +12,9 @@ Fairbanks International Airport follows FAA phraseology, though PFATC does not r
 
 In the United States the ramp is uncontrolled.
 
+!!!info Note 
+In all examples the controller identifies themselves each time. In practice you only must do this once to establish two radio communication.
+
 ### TAXI to Runway
 
 **RUNWAY (number), TAXI VIA (route as necessary).**
