@@ -1,3 +1,8 @@
+---
+title: Fairbanks ATCT SOP
+description: Standard operating procedures and proper phraseology for PAFA/FAI
+author: "djmaxthebestt2133 & iceit”
+---
 # FAI SOP
 _From PFATC Network_
 
