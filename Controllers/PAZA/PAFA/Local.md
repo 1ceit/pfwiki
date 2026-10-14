@@ -1,3 +1,8 @@
+---
+title: Tower Controller
+description: Tower responsibilities and proper phraseology at PAFA/FAI
+author: “iceit”
+---
 # Tower Responsibilities
 
 The Tower controller's **primary responsibility is to control operations on the active runway(s) and aircraft in immediate vicinity of the airport.** Tower is responsible for authorizing aircraft to take off, land, enter, cross, or otherwise use an active runway, while maintaining the required separation between aircraft and coordinating with other controllers as necessary.
