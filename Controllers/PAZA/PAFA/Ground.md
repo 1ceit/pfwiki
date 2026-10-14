@@ -1,3 +1,8 @@
+---
+title: Ground Controller
+description: Ground control responsibilities and proper phraseology at PAFA/FAI
+author: “iceit"
+---
 # Ground Responsibilities
 The Ground controller's primary responsibility is to **control aircraft and vehicles on the airport's movement area, excluding the active runway(s).** Ground is responsible for issuing taxi instructions, ensuring aircraft and vehicles maintain proper separation, and coordinating with other controllers as necessary.
 
