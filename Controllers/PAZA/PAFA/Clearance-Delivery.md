@@ -1,3 +1,8 @@
+---
+title: Clearance Delivery Controller 
+description: Clearance delivery responsibilities and proper phraseology at PAFA/FAI
+author: “iceit & djmaxthebestt2133”
+---
 # Clearance Delivery Responsibilities
 
 The Clearance Delivery controller's role is to **verify flight plans and issue clearances**. Before issuing an IFR clearance, the controller must ensure that the filed flight plan is valid, appropriate for the aircraft, and contains a usable route.
